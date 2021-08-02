@@ -1,0 +1,11 @@
+2021-07-29 15:02:49,105  INFO [main] Test1:37 - launching chrome browser
+2021-07-29 15:02:51,677  INFO [main] Test1:41 - entering into Url
+2021-07-29 15:02:51,678  WARN [main] Test1:42 - hey this is just a small warning
+2021-07-29 15:02:51,678 FATAL [main] Test1:43 - hey this is just a fatal error massage 
+2021-07-29 15:02:51,678 DEBUG [main] Test1:44 - hey this is just debug massage
+2021-07-29 15:02:52,644  INFO [main] Test1:37 - launching chrome browser
+2021-07-29 15:02:54,842  INFO [main] Test1:41 - entering into Url
+2021-07-29 15:02:54,842  WARN [main] Test1:42 - hey this is just a small warning
+2021-07-29 15:02:54,843 FATAL [main] Test1:43 - hey this is just a fatal error massage 
+2021-07-29 15:02:54,843 DEBUG [main] Test1:44 - hey this is just debug massage
+2021-07-29 15:02:54,850  INFO [main] Test1:49 - login page title is--->Google
